@@ -51,7 +51,7 @@ function setup() {
 
 }
 function draw() {
-  background("black"); 
+  background(56,44,44); 
   Engine.update(engine);
   text(mouseX + ',' + mouseY, 10, 15);
   ground.display();
