@@ -1,4 +1,4 @@
-### Features of Stage 3:
+### Features of Stage 1:
 ##### Created a stand using matter js
 ##### created blocks on my stand with properties
 
